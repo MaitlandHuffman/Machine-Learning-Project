@@ -1,9 +1,11 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-ipykernel
-xgboost
-lightgbm
+# Core data processing and analysis
+numpy>=2.0.2
+pandas>=2.2.3
+
+# Machine learning
+scikit-learn>=1.6.1
+xgboost>=2.1.4
+
+# Visualization
+matplotlib>=3.9.4
+seaborn>=0.13.2
